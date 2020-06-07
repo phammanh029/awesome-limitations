@@ -1,2 +1,2 @@
 # Browser limitations
-[Browser]('./browsers.md')
+[Browser]('browsers.md')
