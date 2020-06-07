@@ -28,7 +28,7 @@ Last updated: 7/1/2020
 
 # Browser connection limitations
 
-| Browser | Max connection per domain |
+| Browser | Max connections per domain |
 | -|-|
 |Internet Explorer® 7.0|	2|
 |Internet Explorer 8.0 and 9.0|	6|
